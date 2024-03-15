@@ -30,3 +30,6 @@ while not glfw.window_should_close(window):
     glfw.swap_buffers(window)
 
 glfw.terminate()
+
+
+// Atividade para abrir uma janela centralizada
